@@ -1,0 +1,7 @@
+
+Footer {
+    background-color: #c91313;
+    padding: 10px;
+    color: #080101;
+  }
+  
